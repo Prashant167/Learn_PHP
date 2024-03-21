@@ -1,0 +1,5 @@
+<?php
+echo '<h1> "Hello PHP"</h1>';
+echo '<div style="height:200; border: 2px solid black"><p> "Gaya College Of Engineering Allure the best of minds who are selected through tough competitive examination organised by BCECEB every year. It was Inaugurated by the honourable CM Nitish Kumar in 2008 , it was started as an institution to provide technical education in respective disciplines Civil Engineering , Mechanical Engineering, Electrical &Electronics Engineering , Computer Science & Engineering for the purpose of imparting B.tech degrees. It is situated in the land of Enlightenment & Salvation Gaya (Bihar), 82 Kms south of Patna having campus area of 87 acres. The college has links with reputed universities and colleges of states. It has the Alumni base in about all renowned Companies & firms."</p> </div>';
+
+?>
